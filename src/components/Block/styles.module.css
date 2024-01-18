@@ -1,0 +1,7 @@
+.card{
+    
+        display: grid;
+        /* Будет создано 3 колонки */
+        grid-template-columns: 100px 100px 100px;
+        list-style-type:none;
+}
